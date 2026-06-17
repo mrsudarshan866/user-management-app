@@ -1,0 +1,1 @@
+export { default as GlobalTable } from './DataTable.vue';
